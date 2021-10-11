@@ -27,3 +27,6 @@ ReactDOM.render(<Header />, document.getElementById("root"));
 ```html
 <div id="root"></div>
 ```
+
+## Écrivez du code modulaire avec les composants en JSX
+Pas de notes !
